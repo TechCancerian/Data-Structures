@@ -69,7 +69,7 @@ The repository contains following contents:
 	* tree.cpp
 	* Tree.docx *(document file containing tested sample test cases of above programs)*
   
-## Prerequistics
+## Prerequisites
 
 You will need an IDE for running the c++ programs in your system.
 
